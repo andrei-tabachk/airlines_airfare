@@ -9,4 +9,6 @@ import pandas as pd
 
 from flask import Flask, jsonify, render_template
 
-engine = create_engine("")
+###data setup
+engine = create_engine("C:\Users\andre\OneDrive\Documents\Columbia University - Class Work\Repositories\airlines_airfare\airfare_decrease.sqlite")
+
