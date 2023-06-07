@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dropdown Events</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+</head>
+<body>
+    <h2>XXXXX</h2>
+    <p>Change the dropdown below to update the plots</p>
+    <select id="selDataset">
+        <option value="Female">Female</option>
+        <option value="Male">Male</option>
+        <div id="plot6"></div>
+    </select>
+
+        <div id="plot6"></div>
+        <div id="plot7"></div>
+
+        <div id="plot1"></div>
+        <div id="plot2"></div>
+        <div id="plot3"></div>
+        <div id="plot3_1"></div>
+        <div id="plot4"></div>
+        <div id="plot5"></div>
+
+
+    <p>Data Sources:<br />
+        <ul>
+            <li>
+                <p>Fill this out!!!</p>
+            </li>
+            <li>
+                <p>1</p>
+            </li>
+            <li>
+                <p>2</p>
+            </li>
+            <li>
+                <p>3</p>
+            </li>
+            <li>
+                <p>4</p>
+            </li>
+            </ul>
+    </p>
+    <script src="{{ url_for('static', filename='js/plots.js') }}"></script>
+</body>
+</html>
