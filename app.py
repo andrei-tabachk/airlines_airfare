@@ -10,5 +10,11 @@ import pandas as pd
 from flask import Flask, jsonify, render_template
 
 ###data setup
-engine = create_engine("C:\Users\andre\OneDrive\Documents\Columbia University - Class Work\Repositories\airlines_airfare\airfare_decrease.sqlite")
+engine = create_engine("sqlite://airfare_decrease.sqlite")
+
+# reflect an existing database into a new model
+Base = automap_base()
+# reflect the tables
+Base.prepare(autoload_with=engine)
+
 
