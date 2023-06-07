@@ -17,4 +17,16 @@ Base = automap_base()
 # reflect the tables
 Base.prepare(autoload_with=engine)
 
+# save reference to table
+Base.classes.routes
 
+Routes = Base.classes.routes
+
+app = Flask(__name__)
+
+@app.route("/")
+def welcome():
+    """List all available api routes."""
+    return (
+        f"/api.v1.0/airfare"
+    )
