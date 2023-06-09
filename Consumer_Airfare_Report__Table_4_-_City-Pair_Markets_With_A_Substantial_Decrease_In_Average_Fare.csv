@@ -222,8 +222,8 @@ Table 4,2009,2,33105,31650,"Cincinnati, OH","Minneapolis/St. Paul, MN",21800,233
 (39.104427, -84.513808)","Minneapolis/St. Paul, MN
 (44.977479, -93.264346)"
 Table 4,2017,2,30423,33198,"Austin, TX","Kansas City, MO",27120,189.79,261.58,17760,-71.79,-0.2744,9360,0.527,"Austin, TX
-(30.264979, -97.746598)","Kansas City, MO
-(39.099792, -94.578559)"
+/30.264979, -97.746598","Kansas City, MO
+/39.099792, -94.578559"
 Table 4,2004,3,30257,30397,"Albany, NY","Atlanta, GA (Metropolitan Area)",25760,166.43,244.19,17470,-77.77,-0.3185,8290,0.4745,"Albany, NY
 (42.651242, -73.755418)","Atlanta, GA (Metropolitan Area)
 (33.748547, -84.391502)"
@@ -4970,477 +4970,477 @@ Table 4,2016,4,35412,32211,"Knoxville, TN","Las Vegas, NV",15730,199.18,324.59,7
 (35.962631, -83.916677)","Las Vegas, NV
 (36.169202, -115.140597)"
 Table 4,2017,1,30140,30423,"Albuquerque, NM","Austin, TX",14400,208.59,267.76,10230,-59.17,-22.0975,4170,40.7625,"Albuquerque, NM
-(35.084248, -106.649241)","Austin, TX
-(30.264979, -97.746598)"
+/35.084248, -106.649241","Austin, TX
+/30.264979, -97.746598"
 Table 4,2017,1,30189,31454,"Colorado Springs, CO","Orlando, FL",20930,122.06,255.1,4650,-133.04,-52.1509,16280,350.1075,"Colorado Springs, CO
-(38.835224, -104.819798)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,1,30397,30466,"Atlanta, GA (Metropolitan Area)","Phoenix, AZ",116210,201.09,266.35,99390,-65.26,-24.502,16820,16.9232,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Phoenix, AZ
-(30.406931, -87.217578)"
-Table 4,2017,1,30397,30529,"Atlanta, GA (Metropolitan Area)","Hartford, CT",51830,208.66,263.18,44160,-54.52,-20.7175,7670,17.3687,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Hartford, CT
-(41.765775, -72.673356)"
-Table 4,2017,1,30397,30693,"Atlanta, GA (Metropolitan Area)","Nashville, TN",22230,285.04,357.72,16300,-72.69,-20.3192,5930,36.3804,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Nashville, TN
-(36.166687, -86.779932)"
-Table 4,2017,1,30397,30721,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",191870,182.31,236.91,176240,-54.6,-23.0483,15630,8.8686,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)"
-Table 4,2017,1,30397,31650,"Atlanta, GA (Metropolitan Area)","Minneapolis/St. Paul, MN",103930,214.08,268.29,91170,-54.21,-20.2062,12760,13.9958,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Minneapolis/St. Paul, MN
-(44.977479, -93.264346)"
+/38.835224, -104.819798","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,1,30397,30466,"Atlanta, GA (Metropolitan Area","Phoenix, AZ",116210,201.09,266.35,99390,-65.26,-24.502,16820,16.9232,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Phoenix, AZ
+/30.406931, -87.217578"
+Table 4,2017,1,30397,30529,"Atlanta, GA (Metropolitan Area","Hartford, CT",51830,208.66,263.18,44160,-54.52,-20.7175,7670,17.3687,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Hartford, CT
+/41.765775, -72.673356"
+Table 4,2017,1,30397,30693,"Atlanta, GA (Metropolitan Area","Nashville, TN",22230,285.04,357.72,16300,-72.69,-20.3192,5930,36.3804,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Nashville, TN
+/36.166687, -86.779932"
+Table 4,2017,1,30397,30721,"Atlanta, GA (Metropolitan Area","Boston, MA (Metropolitan Area",191870,182.31,236.91,176240,-54.6,-23.0483,15630,8.8686,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Boston, MA (Metropolitan Area
+/42.358894, -71.056742"
+Table 4,2017,1,30397,31650,"Atlanta, GA (Metropolitan Area","Minneapolis/St. Paul, MN",103930,214.08,268.29,91170,-54.21,-20.2062,12760,13.9958,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Minneapolis/St. Paul, MN
+/44.977479, -93.264346"
 Table 4,2017,1,30423,30198,"Austin, TX","Pittsburgh, PA",15980,201.68,270.81,12000,-69.13,-25.5276,3980,33.1667,"Austin, TX
-(30.264979, -97.746598)","Pittsburgh, PA
-(40.442169, -79.994945)"
-Table 4,2017,1,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area)",15190,135.41,306.04,5040,-170.62,-55.753,10150,201.3889,"Asheville, NC
-(35.595889, -82.550039)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/30.264979, -97.746598","Pittsburgh, PA
+/40.442169, -79.994945"
+Table 4,2017,1,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area",15190,135.41,306.04,5040,-170.62,-55.753,10150,201.3889,"Asheville, NC
+/35.595889, -82.550039","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,1,30466,31123,"Phoenix, AZ","St. Louis, MO",83630,177.48,238.7,66380,-61.22,-25.6457,17250,25.9867,"Phoenix, AZ
-(30.406931, -87.217578)","St. Louis, MO
-(38.630276, -90.200309)"
+/30.406931, -87.217578","St. Louis, MO
+/38.630276, -90.200309"
 Table 4,2017,1,30466,34057,"Phoenix, AZ","Portland, OR",156840,151.16,196.8,124590,-45.64,-23.1921,32250,25.8849,"Phoenix, AZ
-(30.406931, -87.217578)","Portland, OR
-(45.516018, -122.681425)"
+/30.406931, -87.217578","Portland, OR
+/45.516018, -122.681425"
 Table 4,2017,1,30615,32211,"El Paso, TX","Las Vegas, NV",29450,160.44,201.01,22590,-40.58,-20.1861,6860,30.3674,"El Paso, TX
-(31.76006, -106.492257)","Las Vegas, NV
-(36.169202, -115.140597)"
+/31.76006, -106.492257","Las Vegas, NV
+/36.169202, -115.140597"
 Table 4,2017,1,30693,30466,"Nashville, TN","Phoenix, AZ",52660,218.41,287.14,43280,-68.73,-23.9365,9380,21.6728,"Nashville, TN
-(36.166687, -86.779932)","Phoenix, AZ
-(30.406931, -87.217578)"
-Table 4,2017,1,30721,30693,"Boston, MA (Metropolitan Area)","Nashville, TN",84340,146.33,193.05,59810,-46.72,-24.2009,24530,41.0132,"Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)","Nashville, TN
-(36.166687, -86.779932)"
-Table 4,2017,1,30721,31703,"Boston, MA (Metropolitan Area)","New York City, NY (Metropolitan Area)",346030,148.52,222.68,294250,-74.16,-33.304,51780,17.5973,"Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,1,30721,34614,"Boston, MA (Metropolitan Area)","Salt Lake City, UT",69220,270.94,348.37,51970,-77.43,-22.2261,17250,33.1922,"Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)","Salt Lake City, UT
-(40.758478, -111.888142)"
-Table 4,2017,1,30792,32575,"Buffalo, NY","Los Angeles, CA (Metropolitan Area)",35550,202.11,287.1,21730,-84.99,-29.6027,13820,63.5987,"Buffalo, NY
-(39.945422, -78.64671)","Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)"
+/36.166687, -86.779932","Phoenix, AZ
+/30.406931, -87.217578"
+Table 4,2017,1,30721,30693,"Boston, MA (Metropolitan Area","Nashville, TN",84340,146.33,193.05,59810,-46.72,-24.2009,24530,41.0132,"Boston, MA (Metropolitan Area
+/42.358894, -71.056742","Nashville, TN
+/36.166687, -86.779932"
+Table 4,2017,1,30721,31703,"Boston, MA (Metropolitan Area","New York City, NY (Metropolitan Area",346030,148.52,222.68,294250,-74.16,-33.304,51780,17.5973,"Boston, MA (Metropolitan Area
+/42.358894, -71.056742","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,1,30721,34614,"Boston, MA (Metropolitan Area","Salt Lake City, UT",69220,270.94,348.37,51970,-77.43,-22.2261,17250,33.1922,"Boston, MA (Metropolitan Area
+/42.358894, -71.056742","Salt Lake City, UT
+/40.758478, -111.888142"
+Table 4,2017,1,30792,32575,"Buffalo, NY","Los Angeles, CA (Metropolitan Area",35550,202.11,287.1,21730,-84.99,-29.6027,13820,63.5987,"Buffalo, NY
+/39.945422, -78.64671","Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344"
 Table 4,2017,1,30977,31267,"Chicago, IL","Dayton, OH",22590,136.18,255.17,10610,-118.98,-46.6301,11980,112.9123,"Chicago, IL
-(41.775002, -87.696388)","Dayton, OH
-(39.760982, -84.192203)"
+/41.775002, -87.696388","Dayton, OH
+/39.760982, -84.192203"
 Table 4,2017,1,30977,33105,"Chicago, IL","Cincinnati, OH",42350,222.91,302.72,31840,-79.81,-26.3655,10510,33.0088,"Chicago, IL
-(41.775002, -87.696388)","Cincinnati, OH
-(39.104427, -84.513808)"
+/41.775002, -87.696388","Cincinnati, OH
+/39.104427, -84.513808"
 Table 4,2017,1,30977,33192,"Chicago, IL","Sacramento, CA",38150,229.95,295.96,29030,-66.01,-22.3045,9120,31.4158,"Chicago, IL
-(41.775002, -87.696388)","Sacramento, CA
-(38.582087, -121.50012)"
+/41.775002, -87.696388","Sacramento, CA
+/38.582087, -121.50012"
 Table 4,2017,1,30977,33851,"Chicago, IL","Oklahoma City, OK",24750,187.2,235.9,20310,-48.7,-20.6447,4440,21.8612,"Chicago, IL
-(41.775002, -87.696388)","Oklahoma City, OK
-(35.468494, -97.521264)"
+/41.775002, -87.696388","Oklahoma City, OK
+/35.468494, -97.521264"
 Table 4,2017,1,31057,30693,"Charlotte, NC","Nashville, TN",48260,152.29,286.6,26340,-134.31,-46.8634,21920,83.2194,"Charlotte, NC
-(35.222936, -80.840161)","Nashville, TN
-(36.166687, -86.779932)"
+/35.222936, -80.840161","Nashville, TN
+/36.166687, -86.779932"
 Table 4,2017,1,31066,30325,"Columbus, OH","Denver, CO",38570,197.56,259.08,27470,-61.52,-23.746,11100,40.4077,"Columbus, OH
-(39.962649, -82.996216)","Denver, CO
-(39.738453, -104.984853)"
+/39.962649, -82.996216","Denver, CO
+/39.738453, -104.984853"
 Table 4,2017,1,31066,32211,"Columbus, OH","Las Vegas, NV",56810,198.77,269.05,37860,-70.28,-26.1231,18950,50.0528,"Columbus, OH
-(39.962649, -82.996216)","Las Vegas, NV
-(36.169202, -115.140597)"
+/39.962649, -82.996216","Las Vegas, NV
+/36.169202, -115.140597"
 Table 4,2017,1,31295,30466,"Detroit, MI","Phoenix, AZ",134000,196.31,258.69,100920,-62.38,-24.1143,33080,32.7784,"Detroit, MI
-(42.332916, -83.047853)","Phoenix, AZ
-(30.406931, -87.217578)"
+/42.332916, -83.047853","Phoenix, AZ
+/30.406931, -87.217578"
 Table 4,2017,1,31295,34100,"Detroit, MI","Philadelphia, PA",59540,156.17,353.85,37790,-197.69,-55.8668,21750,57.5549,"Detroit, MI
-(42.332916, -83.047853)","Philadelphia, PA
-(39.951061, -75.16562)"
+/42.332916, -83.047853","Philadelphia, PA
+/39.951061, -75.16562"
 Table 4,2017,1,31453,33316,"Houston, TX","Omaha, NE",20270,231.4,296.77,16310,-65.37,-22.0287,3960,24.2796,"Houston, TX
-(29.760803, -95.369506)","Omaha, NE
-(46.07035, -93.666319)"
+/29.760803, -95.369506","Omaha, NE
+/46.07035, -93.666319"
 Table 4,2017,1,31454,35356,"Orlando, FL","Trenton, NJ",18490,93.11,121.34,33330,-28.23,-23.2671,-14840,-44.5245,"Orlando, FL
-(28.538331, -81.378879)","Trenton, NJ
-(40.220572, -74.759709)"
+/28.538331, -81.378879","Trenton, NJ
+/40.220572, -74.759709"
 Table 4,2017,1,31650,34027,"Minneapolis/St. Paul, MN","West Palm Beach/Palm Beach, FL",26810,197.67,247.91,11080,-50.24,-20.2659,15730,141.9675,"Minneapolis/St. Paul, MN
-(44.977479, -93.264346)","West Palm Beach/Palm Beach, FL
-(33.90976, -98.500854)"
-Table 4,2017,1,31986,31703,"Grand Rapids, MI","New York City, NY (Metropolitan Area)",24210,216.88,306.49,18450,-89.61,-29.2363,5760,31.2195,"Grand Rapids, MI
-(47.925705, -97.036068)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,1,32467,30693,"Miami, FL (Metropolitan Area)","Nashville, TN",97500,159.21,203.07,74610,-43.86,-21.5978,22890,30.6795,"Miami, FL (Metropolitan Area)
-(44.977479, -93.264346)","Nashville, TN
-(36.166687, -86.779932)"
-Table 4,2017,1,32575,33495,"Los Angeles, CA (Metropolitan Area)","New Orleans, LA",138790,205.39,263.47,101570,-58.08,-22.0439,37220,36.6447,"Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)","New Orleans, LA
-(29.950621, -90.074948)"
+/44.977479, -93.264346","West Palm Beach/Palm Beach, FL
+/33.90976, -98.500854"
+Table 4,2017,1,31986,31703,"Grand Rapids, MI","New York City, NY (Metropolitan Area",24210,216.88,306.49,18450,-89.61,-29.2363,5760,31.2195,"Grand Rapids, MI
+/47.925705, -97.036068","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,1,32467,30693,"Miami, FL (Metropolitan Area","Nashville, TN",97500,159.21,203.07,74610,-43.86,-21.5978,22890,30.6795,"Miami, FL (Metropolitan Area
+/44.977479, -93.264346","Nashville, TN
+/36.166687, -86.779932"
+Table 4,2017,1,32575,33495,"Los Angeles, CA (Metropolitan Area","New Orleans, LA",138790,205.39,263.47,101570,-58.08,-22.0439,37220,36.6447,"Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344","New Orleans, LA
+/29.950621, -90.074948"
 Table 4,2017,1,33105,30325,"Cincinnati, OH","Denver, CO",35560,174.86,230.25,25610,-55.39,-24.0561,9950,38.852,"Cincinnati, OH
-(39.104427, -84.513808)","Denver, CO
-(39.738453, -104.984853)"
+/39.104427, -84.513808","Denver, CO
+/39.738453, -104.984853"
 Table 4,2017,1,33105,30466,"Cincinnati, OH","Phoenix, AZ",35840,176.45,264.3,23310,-87.86,-33.2401,12530,53.7538,"Cincinnati, OH
-(39.104427, -84.513808)","Phoenix, AZ
-(30.406931, -87.217578)"
+/39.104427, -84.513808","Phoenix, AZ
+/30.406931, -87.217578"
 Table 4,2017,1,33105,31453,"Cincinnati, OH","Houston, TX",23330,268.32,367.07,16470,-98.75,-26.9015,6860,41.6515,"Cincinnati, OH
-(39.104427, -84.513808)","Houston, TX
-(29.760803, -95.369506)"
-Table 4,2017,1,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area)",29630,269.24,360.27,21630,-91.03,-25.2671,8000,36.9857,"Cincinnati, OH
-(39.104427, -84.513808)","San Francisco, CA (Metropolitan Area)
-(37.78008, -122.420168)"
-Table 4,2017,1,33105,32575,"Cincinnati, OH","Los Angeles, CA (Metropolitan Area)",57820,234.21,359.69,39230,-125.47,-34.8834,18590,47.3872,"Cincinnati, OH
-(39.104427, -84.513808)","Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)"
+/39.104427, -84.513808","Houston, TX
+/29.760803, -95.369506"
+Table 4,2017,1,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area",29630,269.24,360.27,21630,-91.03,-25.2671,8000,36.9857,"Cincinnati, OH
+/39.104427, -84.513808","San Francisco, CA (Metropolitan Area
+/37.78008, -122.420168"
+Table 4,2017,1,33105,32575,"Cincinnati, OH","Los Angeles, CA (Metropolitan Area",57820,234.21,359.69,39230,-125.47,-34.8834,18590,47.3872,"Cincinnati, OH
+/39.104427, -84.513808","Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344"
 Table 4,2017,1,33192,34614,"Sacramento, CA","Salt Lake City, UT",35240,160.57,210.42,26330,-49.85,-23.6924,8910,33.8397,"Sacramento, CA
-(38.582087, -121.50012)","Salt Lake City, UT
-(40.758478, -111.888142)"
+/38.582087, -121.50012","Salt Lake City, UT
+/40.758478, -111.888142"
 Table 4,2017,1,33198,33214,"Kansas City, MO","San Antonio, TX",24440,185.12,247.38,16340,-62.26,-25.1666,8100,49.5716,"Kansas City, MO
-(39.099792, -94.578559)","San Antonio, TX
-(29.425173, -98.494599)"
+/39.099792, -94.578559","San Antonio, TX
+/29.425173, -98.494599"
 Table 4,2017,1,33485,31454,"Madison, WI","Orlando, FL",17230,175.51,225.12,11420,-49.6,-22.0351,5810,50.8757,"Madison, WI
-(43.073926, -89.385244)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,1,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area)",22680,181.28,290.66,13870,-109.38,-37.6305,8810,63.5184,"Knoxville, TN
-(35.962631, -83.916677)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/43.073926, -89.385244","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,1,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area",22680,181.28,290.66,13870,-109.38,-37.6305,8810,63.5184,"Knoxville, TN
+/35.962631, -83.916677","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,2,30189,31454,"Colorado Springs, CO","Orlando, FL",19350,132.23,263.89,5080,-131.66,-0.4989,14270,2.8091,"Colorado Springs, CO
-(38.835224, -104.819798)","Orlando, FL
-(28.538331, -81.378879)"
+/38.835224, -104.819798","Orlando, FL
+/28.538331, -81.378879"
 Table 4,2017,2,30194,31834,"Dallas/Fort Worth, TX","Fayetteville, AR",17790,261.38,338.32,12130,-76.94,-0.2274,5660,0.4666,"Dallas/Fort Worth, TX
-(40.11086, -77.035636)","Fayetteville, AR
-(36.061928, -94.160583)"
-Table 4,2017,2,30397,30721,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",307710,160.92,212.39,258790,-51.47,-0.2424,48920,0.189,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)"
+/40.11086, -77.035636","Fayetteville, AR
+/36.061928, -94.160583"
+Table 4,2017,2,30397,30721,"Atlanta, GA (Metropolitan Area","Boston, MA (Metropolitan Area",307710,160.92,212.39,258790,-51.47,-0.2424,48920,0.189,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Boston, MA (Metropolitan Area
+/42.358894, -71.056742"
 Table 4,2017,2,30423,30198,"Austin, TX","Pittsburgh, PA",21100,212.54,273.14,14940,-60.6,-0.2219,6160,0.4123,"Austin, TX
-(30.264979, -97.746598)","Pittsburgh, PA
-(40.442169, -79.994945)"
-Table 4,2017,2,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area)",22040,200.97,268.56,15740,-67.58,-0.2516,6300,0.4002,"Austin, TX
-(30.264979, -97.746598)","Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)"
-Table 4,2017,2,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area)",30170,145.89,295.15,9420,-149.27,-0.5057,20750,2.2028,"Asheville, NC
-(35.595889, -82.550039)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/30.264979, -97.746598","Pittsburgh, PA
+/40.442169, -79.994945"
+Table 4,2017,2,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area",22040,200.97,268.56,15740,-67.58,-0.2516,6300,0.4002,"Austin, TX
+/30.264979, -97.746598","Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915"
+Table 4,2017,2,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area",30170,145.89,295.15,9420,-149.27,-0.5057,20750,2.2028,"Asheville, NC
+/35.595889, -82.550039","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,2,30466,33192,"Phoenix, AZ","Sacramento, CA",92790,177.38,221.8,71010,-44.42,-0.2003,21780,0.3067,"Phoenix, AZ
-(30.406931, -87.217578)","Sacramento, CA
-(38.582087, -121.50012)"
-Table 4,2017,2,30647,31453,"Cleveland, OH (Metropolitan Area)","Houston, TX",40370,242.45,324.78,37610,-82.33,-0.2535,2760,0.0734,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Houston, TX
-(29.760803, -95.369506)"
+/30.406931, -87.217578","Sacramento, CA
+/38.582087, -121.50012"
+Table 4,2017,2,30647,31453,"Cleveland, OH (Metropolitan Area","Houston, TX",40370,242.45,324.78,37610,-82.33,-0.2535,2760,0.0734,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Houston, TX
+/29.760803, -95.369506"
 Table 4,2017,2,30977,33105,"Chicago, IL","Cincinnati, OH",59980,178.25,267.21,39310,-88.96,-0.3329,20670,0.5258,"Chicago, IL
-(41.775002, -87.696388)","Cincinnati, OH
-(39.104427, -84.513808)"
+/41.775002, -87.696388","Cincinnati, OH
+/39.104427, -84.513808"
 Table 4,2017,2,31057,30693,"Charlotte, NC","Nashville, TN",49160,182.79,283.12,28940,-100.33,-0.3544,20220,0.6987,"Charlotte, NC
-(35.222936, -80.840161)","Nashville, TN
-(36.166687, -86.779932)"
+/35.222936, -80.840161","Nashville, TN
+/36.166687, -86.779932"
 Table 4,2017,2,31295,34100,"Detroit, MI","Philadelphia, PA",78150,166.83,254.55,55490,-87.72,-0.3446,22660,0.4084,"Detroit, MI
-(42.332916, -83.047853)","Philadelphia, PA
-(39.951061, -75.16562)"
+/42.332916, -83.047853","Philadelphia, PA
+/39.951061, -75.16562"
 Table 4,2017,2,31453,33316,"Houston, TX","Omaha, NE",24740,206.25,314.77,18790,-108.52,-0.3448,5950,0.3167,"Houston, TX
-(29.760803, -95.369506)","Omaha, NE
-(46.07035, -93.666319)"
+/29.760803, -95.369506","Omaha, NE
+/46.07035, -93.666319"
 Table 4,2017,2,31453,33495,"Houston, TX","New Orleans, LA",141140,145.01,185.41,137050,-40.4,-0.2179,4090,0.0298,"Houston, TX
-(29.760803, -95.369506)","New Orleans, LA
-(29.950621, -90.074948)"
+/29.760803, -95.369506","New Orleans, LA
+/29.950621, -90.074948"
 Table 4,2017,2,31453,34100,"Houston, TX","Philadelphia, PA",95220,245.92,340.2,76360,-94.27,-0.2771,18860,0.247,"Houston, TX
-(29.760803, -95.369506)","Philadelphia, PA
-(39.951061, -75.16562)"
+/29.760803, -95.369506","Philadelphia, PA
+/39.951061, -75.16562"
 Table 4,2017,2,31454,33570,"Orlando, FL","San Diego, CA",73730,192.02,256.79,52070,-64.77,-0.2522,21660,0.416,"Orlando, FL
-(28.538331, -81.378879)","San Diego, CA
-(32.71576, -117.163817)"
-Table 4,2017,2,32211,33195,"Las Vegas, NV","Tampa, FL (Metropolitan Area)",77560,201.63,267.76,52930,-66.13,-0.247,24630,0.4653,"Las Vegas, NV
-(36.169202, -115.140597)","Tampa, FL (Metropolitan Area)
-(37.8606, -78.804199)"
+/28.538331, -81.378879","San Diego, CA
+/32.71576, -117.163817"
+Table 4,2017,2,32211,33195,"Las Vegas, NV","Tampa, FL (Metropolitan Area",77560,201.63,267.76,52930,-66.13,-0.247,24630,0.4653,"Las Vegas, NV
+/36.169202, -115.140597","Tampa, FL (Metropolitan Area
+/37.8606, -78.804199"
 Table 4,2017,4,30977,33105,"Chicago, IL","Cincinnati, OH",78990,133.2,229.98,41960,-96.78,-0.4208,37030,0.8825,"Chicago, IL
-(41.775002, -87.696388)","Cincinnati, OH
-(39.104427, -84.513808)"
-Table 4,2017,2,32575,34570,"Los Angeles, CA (Metropolitan Area)","Reno, NV",106140,132.64,169.13,79150,-36.49,-0.2157,26990,0.341,"Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)","Reno, NV
-(30.177159, -95.162771)"
+/41.775002, -87.696388","Cincinnati, OH
+/39.104427, -84.513808"
+Table 4,2017,2,32575,34570,"Los Angeles, CA (Metropolitan Area","Reno, NV",106140,132.64,169.13,79150,-36.49,-0.2157,26990,0.341,"Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344","Reno, NV
+/30.177159, -95.162771"
 Table 4,2017,2,33105,31650,"Cincinnati, OH","Minneapolis/St. Paul, MN",27740,279.15,360.79,23600,-81.64,-0.2263,4140,0.1754,"Cincinnati, OH
-(39.104427, -84.513808)","Minneapolis/St. Paul, MN
-(44.977479, -93.264346)"
-Table 4,2017,2,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area)",54530,233.45,301.11,36490,-67.66,-0.2247,18040,0.4944,"Cincinnati, OH
-(39.104427, -84.513808)","San Francisco, CA (Metropolitan Area)
-(37.78008, -122.420168)"
-Table 4,2017,2,33105,32575,"Cincinnati, OH","Los Angeles, CA (Metropolitan Area)",77550,236.75,296.24,56750,-59.48,-0.2008,20800,0.3665,"Cincinnati, OH
-(39.104427, -84.513808)","Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)"
+/39.104427, -84.513808","Minneapolis/St. Paul, MN
+/44.977479, -93.264346"
+Table 4,2017,2,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area",54530,233.45,301.11,36490,-67.66,-0.2247,18040,0.4944,"Cincinnati, OH
+/39.104427, -84.513808","San Francisco, CA (Metropolitan Area
+/37.78008, -122.420168"
+Table 4,2017,2,33105,32575,"Cincinnati, OH","Los Angeles, CA (Metropolitan Area",77550,236.75,296.24,56750,-59.48,-0.2008,20800,0.3665,"Cincinnati, OH
+/39.104427, -84.513808","Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344"
 Table 4,2017,2,33105,33570,"Cincinnati, OH","San Diego, CA",17850,254.49,321.27,11300,-66.78,-0.2079,6550,0.5796,"Cincinnati, OH
-(39.104427, -84.513808)","San Diego, CA
-(32.71576, -117.163817)"
+/39.104427, -84.513808","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,2,33192,34614,"Sacramento, CA","Salt Lake City, UT",40680,159.08,222.25,29830,-63.17,-0.2842,10850,0.3637,"Sacramento, CA
-(38.582087, -121.50012)","Salt Lake City, UT
-(40.758478, -111.888142)"
+/38.582087, -121.50012","Salt Lake City, UT
+/40.758478, -111.888142"
 Table 4,2017,2,33198,33214,"Kansas City, MO","San Antonio, TX",26140,184.43,252.65,18240,-68.22,-0.27,7900,0.4331,"Kansas City, MO
-(39.099792, -94.578559)","San Antonio, TX
-(29.425173, -98.494599)"
+/39.099792, -94.578559","San Antonio, TX
+/29.425173, -98.494599"
 Table 4,2017,2,33495,34492,"New Orleans, LA","Raleigh/Durham, NC",25290,193.27,250.43,19380,-57.17,-0.2283,5910,0.305,"New Orleans, LA
-(29.950621, -90.074948)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
-Table 4,2017,2,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area)",35760,170.45,309.94,19550,-139.49,-0.4501,16210,0.8292,"Knoxville, TN
-(35.962631, -83.916677)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,3,30158,32467,"Atlantic City, NJ","Miami, FL (Metropolitan Area)",36360,76.19,97.28,36550,-21.09,-0.2168,-190,-0.0052,"Atlantic City, NJ
-(33.748547, -84.391502)","Miami, FL (Metropolitan Area)
-(44.977479, -93.264346)"
-Table 4,2017,3,30189,30852,"Colorado Springs, CO","Washington, DC (Metropolitan Area)",28500,202.84,311.64,17380,-108.8,-0.3491,11120,0.6398,"Colorado Springs, CO
-(38.835224, -104.819798)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
+/29.950621, -90.074948","Raleigh/Durham, NC
+/42.673348, -72.179683"
+Table 4,2017,2,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area",35760,170.45,309.94,19550,-139.49,-0.4501,16210,0.8292,"Knoxville, TN
+/35.962631, -83.916677","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,3,30158,32467,"Atlantic City, NJ","Miami, FL (Metropolitan Area",36360,76.19,97.28,36550,-21.09,-0.2168,-190,-0.0052,"Atlantic City, NJ
+/33.748547, -84.391502","Miami, FL (Metropolitan Area
+/44.977479, -93.264346"
+Table 4,2017,3,30189,30852,"Colorado Springs, CO","Washington, DC (Metropolitan Area",28500,202.84,311.64,17380,-108.8,-0.3491,11120,0.6398,"Colorado Springs, CO
+/38.835224, -104.819798","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
 Table 4,2017,3,30189,31454,"Colorado Springs, CO","Orlando, FL",17860,117.81,251.28,4430,-133.47,-0.5312,13430,3.0316,"Colorado Springs, CO
-(38.835224, -104.819798)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,3,30189,32575,"Colorado Springs, CO","Los Angeles, CA (Metropolitan Area)",19710,182.94,269.44,13450,-86.49,-0.321,6260,0.4654,"Colorado Springs, CO
-(38.835224, -104.819798)","Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)"
+/38.835224, -104.819798","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,3,30189,32575,"Colorado Springs, CO","Los Angeles, CA (Metropolitan Area",19710,182.94,269.44,13450,-86.49,-0.321,6260,0.4654,"Colorado Springs, CO
+/38.835224, -104.819798","Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344"
 Table 4,2017,3,30194,30198,"Dallas/Fort Worth, TX","Pittsburgh, PA",68740,173.43,234.78,56320,-61.35,-0.2613,12420,0.2205,"Dallas/Fort Worth, TX
-(40.11086, -77.035636)","Pittsburgh, PA
-(40.442169, -79.994945)"
+/40.11086, -77.035636","Pittsburgh, PA
+/40.442169, -79.994945"
 Table 4,2017,3,30194,33851,"Dallas/Fort Worth, TX","Oklahoma City, OK",23210,155.89,197.46,18360,-41.57,-0.2105,4850,0.2642,"Dallas/Fort Worth, TX
-(40.11086, -77.035636)","Oklahoma City, OK
-(35.468494, -97.521264)"
+/40.11086, -77.035636","Oklahoma City, OK
+/35.468494, -97.521264"
 Table 4,2017,3,30194,34653,"Dallas/Fort Worth, TX","Tulsa, OK",38730,140.1,180.18,34760,-40.08,-0.2224,3970,0.1142,"Dallas/Fort Worth, TX
-(40.11086, -77.035636)","Tulsa, OK
-(61.096484, -160.967455)"
+/40.11086, -77.035636","Tulsa, OK
+/61.096484, -160.967455"
 Table 4,2017,3,30325,33485,"Denver, CO","Madison, WI",31130,161,217.97,22300,-56.97,-0.2614,8830,0.396,"Denver, CO
-(39.738453, -104.984853)","Madison, WI
-(43.073926, -89.385244)"
+/39.738453, -104.984853","Madison, WI
+/43.073926, -89.385244"
 Table 4,2017,3,30325,33495,"Denver, CO","New Orleans, LA",69710,155.24,194.4,58020,-39.16,-0.2014,11690,0.2015,"Denver, CO
-(39.738453, -104.984853)","New Orleans, LA
-(29.950621, -90.074948)"
+/39.738453, -104.984853","New Orleans, LA
+/29.950621, -90.074948"
 Table 4,2017,3,30325,34614,"Denver, CO","Salt Lake City, UT",142520,126.01,160.7,120450,-34.69,-0.2159,22070,0.1832,"Denver, CO
-(39.738453, -104.984853)","Salt Lake City, UT
-(40.758478, -111.888142)"
-Table 4,2017,3,30397,30423,"Atlanta, GA (Metropolitan Area)","Austin, TX",83590,161.98,207.04,71270,-45.06,-0.2176,12320,0.1729,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Austin, TX
-(30.264979, -97.746598)"
-Table 4,2017,3,30397,30721,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",315990,150.88,222.48,250310,-71.6,-0.3218,65680,0.2624,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)"
-Table 4,2017,3,30397,33105,"Atlanta, GA (Metropolitan Area)","Cincinnati, OH",39680,235.63,294.76,30810,-59.13,-0.2006,8870,0.2879,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Cincinnati, OH
-(39.104427, -84.513808)"
+/39.738453, -104.984853","Salt Lake City, UT
+/40.758478, -111.888142"
+Table 4,2017,3,30397,30423,"Atlanta, GA (Metropolitan Area","Austin, TX",83590,161.98,207.04,71270,-45.06,-0.2176,12320,0.1729,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Austin, TX
+/30.264979, -97.746598"
+Table 4,2017,3,30397,30721,"Atlanta, GA (Metropolitan Area","Boston, MA (Metropolitan Area",315990,150.88,222.48,250310,-71.6,-0.3218,65680,0.2624,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Boston, MA (Metropolitan Area
+/42.358894, -71.056742"
+Table 4,2017,3,30397,33105,"Atlanta, GA (Metropolitan Area","Cincinnati, OH",39680,235.63,294.76,30810,-59.13,-0.2006,8870,0.2879,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Cincinnati, OH
+/39.104427, -84.513808"
 Table 4,2017,3,30423,30198,"Austin, TX","Pittsburgh, PA",19100,197.27,249.63,14310,-52.36,-0.2098,4790,0.3347,"Austin, TX
-(30.264979, -97.746598)","Pittsburgh, PA
-(40.442169, -79.994945)"
-Table 4,2017,3,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area)",18760,198.56,257.87,15390,-59.31,-0.23,3370,0.219,"Austin, TX
-(30.264979, -97.746598)","Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)"
+/30.264979, -97.746598","Pittsburgh, PA
+/40.442169, -79.994945"
+Table 4,2017,3,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area",18760,198.56,257.87,15390,-59.31,-0.23,3370,0.219,"Austin, TX
+/30.264979, -97.746598","Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915"
 Table 4,2017,3,30423,32337,"Austin, TX","Indianapolis, IN",19420,205.38,265.67,13520,-60.3,-0.227,5900,0.4364,"Austin, TX
-(30.264979, -97.746598)","Indianapolis, IN
-(39.76845, -86.156212)"
+/30.264979, -97.746598","Indianapolis, IN
+/39.76845, -86.156212"
 Table 4,2017,3,30423,33198,"Austin, TX","Kansas City, MO",25240,181.41,237.88,16600,-56.47,-0.2374,8640,0.5205,"Austin, TX
-(30.264979, -97.746598)","Kansas City, MO
-(39.099792, -94.578559)"
+/30.264979, -97.746598","Kansas City, MO
+/39.099792, -94.578559"
 Table 4,2017,3,30423,33570,"Austin, TX","San Diego, CA",58690,185.77,258.31,39890,-72.54,-0.2808,18800,0.4713,"Austin, TX
-(30.264979, -97.746598)","San Diego, CA
-(32.71576, -117.163817)"
-Table 4,2017,3,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area)",32170,146.3,272.12,12790,-125.83,-0.4624,19380,1.5152,"Asheville, NC
-(35.595889, -82.550039)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/30.264979, -97.746598","San Diego, CA
+/32.71576, -117.163817"
+Table 4,2017,3,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area",32170,146.3,272.12,12790,-125.83,-0.4624,19380,1.5152,"Asheville, NC
+/35.595889, -82.550039","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,3,30466,33192,"Phoenix, AZ","Sacramento, CA",80170,171.01,214.24,61700,-43.23,-0.2018,18470,0.2994,"Phoenix, AZ
-(30.406931, -87.217578)","Sacramento, CA
-(38.582087, -121.50012)"
+/30.406931, -87.217578","Sacramento, CA
+/38.582087, -121.50012"
 Table 4,2017,3,30529,31135,"Hartford, CT","Myrtle Beach, SC",21150,98.29,243.81,4100,-145.51,-0.5968,17050,4.1585,"Hartford, CT
-(41.765775, -72.673356)","Myrtle Beach, SC
-(33.68785, -78.883852)"
-Table 4,2017,3,30581,31703,"Bangor, ME","New York City, NY (Metropolitan Area)",21830,205.07,259.84,14950,-54.77,-0.2108,6880,0.4602,"Bangor, ME
-(44.801602, -68.771334)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,3,30647,30852,"Cleveland, OH (Metropolitan Area)","Washington, DC (Metropolitan Area)",53720,193.25,241.72,62910,-48.47,-0.2005,-9190,-0.1461,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
-Table 4,2017,3,30647,31453,"Cleveland, OH (Metropolitan Area)","Houston, TX",41370,216.72,321.95,34470,-105.23,-0.3269,6900,0.2002,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Houston, TX
-(29.760803, -95.369506)"
-Table 4,2017,3,30647,33195,"Cleveland, OH (Metropolitan Area)","Tampa, FL (Metropolitan Area)",50990,118.25,150.22,50460,-31.97,-0.2128,530,0.0105,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Tampa, FL (Metropolitan Area)
-(37.8606, -78.804199)"
-Table 4,2017,3,30647,33570,"Cleveland, OH (Metropolitan Area)","San Diego, CA",30210,197.47,283.18,21010,-85.71,-0.3027,9200,0.4379,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","San Diego, CA
-(32.71576, -117.163817)"
+/41.765775, -72.673356","Myrtle Beach, SC
+/33.68785, -78.883852"
+Table 4,2017,3,30581,31703,"Bangor, ME","New York City, NY (Metropolitan Area",21830,205.07,259.84,14950,-54.77,-0.2108,6880,0.4602,"Bangor, ME
+/44.801602, -68.771334","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,3,30647,30852,"Cleveland, OH (Metropolitan Area","Washington, DC (Metropolitan Area",53720,193.25,241.72,62910,-48.47,-0.2005,-9190,-0.1461,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
+Table 4,2017,3,30647,31453,"Cleveland, OH (Metropolitan Area","Houston, TX",41370,216.72,321.95,34470,-105.23,-0.3269,6900,0.2002,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Houston, TX
+/29.760803, -95.369506"
+Table 4,2017,3,30647,33195,"Cleveland, OH (Metropolitan Area","Tampa, FL (Metropolitan Area",50990,118.25,150.22,50460,-31.97,-0.2128,530,0.0105,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Tampa, FL (Metropolitan Area
+/37.8606, -78.804199"
+Table 4,2017,3,30647,33570,"Cleveland, OH (Metropolitan Area","San Diego, CA",30210,197.47,283.18,21010,-85.71,-0.3027,9200,0.4379,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,3,30977,30189,"Chicago, IL","Colorado Springs, CO",20160,157.57,345.89,6150,-188.32,-0.5444,14010,2.278,"Chicago, IL
-(41.775002, -87.696388)","Colorado Springs, CO
-(38.835224, -104.819798)"
+/41.775002, -87.696388","Colorado Springs, CO
+/38.835224, -104.819798"
 Table 4,2017,3,30977,31295,"Chicago, IL","Detroit, MI",147080,141.81,177.88,127120,-36.07,-0.2028,19960,0.157,"Chicago, IL
-(41.775002, -87.696388)","Detroit, MI
-(42.332916, -83.047853)"
+/41.775002, -87.696388","Detroit, MI
+/42.332916, -83.047853"
 Table 4,2017,3,30977,33105,"Chicago, IL","Cincinnati, OH",78110,124.32,227.08,38840,-102.77,-0.4526,39270,1.0111,"Chicago, IL
-(41.775002, -87.696388)","Cincinnati, OH
-(39.104427, -84.513808)"
+/41.775002, -87.696388","Cincinnati, OH
+/39.104427, -84.513808"
 Table 4,2017,3,30977,33192,"Chicago, IL","Sacramento, CA",65590,231.92,304.41,47530,-72.49,-0.2381,18060,0.38,"Chicago, IL
-(41.775002, -87.696388)","Sacramento, CA
-(38.582087, -121.50012)"
+/41.775002, -87.696388","Sacramento, CA
+/38.582087, -121.50012"
 Table 4,2017,3,30977,33214,"Chicago, IL","San Antonio, TX",90510,171.5,239.98,69160,-68.49,-0.2854,21350,0.3087,"Chicago, IL
-(41.775002, -87.696388)","San Antonio, TX
-(29.425173, -98.494599)"
+/41.775002, -87.696388","San Antonio, TX
+/29.425173, -98.494599"
 Table 4,2017,3,30977,33851,"Chicago, IL","Oklahoma City, OK",34360,181.97,236.64,30440,-54.68,-0.231,3920,0.1288,"Chicago, IL
-(41.775002, -87.696388)","Oklahoma City, OK
-(35.468494, -97.521264)"
+/41.775002, -87.696388","Oklahoma City, OK
+/35.468494, -97.521264"
 Table 4,2017,3,31003,30325,"Cedar Rapids/Iowa City, IA","Denver, CO",21480,156.11,198.38,15090,-42.28,-0.2131,6390,0.4235,"Cedar Rapids/Iowa City, IA
-(41.978122, -91.669808)","Denver, CO
-(39.738453, -104.984853)"
-Table 4,2017,3,31267,31703,"Dayton, OH","New York City, NY (Metropolitan Area)",22380,168.87,214.57,23500,-45.7,-0.213,-1120,-0.0477,"Dayton, OH
-(39.760982, -84.192203)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/41.978122, -91.669808","Denver, CO
+/39.738453, -104.984853"
+Table 4,2017,3,31267,31703,"Dayton, OH","New York City, NY (Metropolitan Area",22380,168.87,214.57,23500,-45.7,-0.213,-1120,-0.0477,"Dayton, OH
+/39.760982, -84.192203","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,3,31295,34100,"Detroit, MI","Philadelphia, PA",70340,173.69,226.25,57100,-52.55,-0.2323,13240,0.2319,"Detroit, MI
-(42.332916, -83.047853)","Philadelphia, PA
-(39.951061, -75.16562)"
+/42.332916, -83.047853","Philadelphia, PA
+/39.951061, -75.16562"
 Table 4,2017,3,31453,30198,"Houston, TX","Pittsburgh, PA",52480,230.85,293.77,48750,-62.92,-0.2142,3730,0.0765,"Houston, TX
-(29.760803, -95.369506)","Pittsburgh, PA
-(40.442169, -79.994945)"
+/29.760803, -95.369506","Pittsburgh, PA
+/40.442169, -79.994945"
 Table 4,2017,3,31453,30559,"Houston, TX","Seattle, WA",116890,202.96,258.77,97040,-55.81,-0.2157,19850,0.2046,"Houston, TX
-(29.760803, -95.369506)","Seattle, WA
-(47.603229, -122.33028)"
-Table 4,2017,3,31453,33195,"Houston, TX","Tampa, FL (Metropolitan Area)",64460,141.45,186.73,62730,-45.28,-0.2425,1730,0.0276,"Houston, TX
-(29.760803, -95.369506)","Tampa, FL (Metropolitan Area)
-(37.8606, -78.804199)"
+/29.760803, -95.369506","Seattle, WA
+/47.603229, -122.33028"
+Table 4,2017,3,31453,33195,"Houston, TX","Tampa, FL (Metropolitan Area",64460,141.45,186.73,62730,-45.28,-0.2425,1730,0.0276,"Houston, TX
+/29.760803, -95.369506","Tampa, FL (Metropolitan Area
+/37.8606, -78.804199"
 Table 4,2017,3,31453,33316,"Houston, TX","Omaha, NE",25240,181.07,285.73,16200,-104.66,-0.3663,9040,0.558,"Houston, TX
-(29.760803, -95.369506)","Omaha, NE
-(46.07035, -93.666319)"
+/29.760803, -95.369506","Omaha, NE
+/46.07035, -93.666319"
 Table 4,2017,3,31453,33495,"Houston, TX","New Orleans, LA",117570,140.44,193.36,116250,-52.92,-0.2737,1320,0.0114,"Houston, TX
-(29.760803, -95.369506)","New Orleans, LA
-(29.950621, -90.074948)"
+/29.760803, -95.369506","New Orleans, LA
+/29.950621, -90.074948"
 Table 4,2017,3,31453,34100,"Houston, TX","Philadelphia, PA",84710,218.24,332.42,68270,-114.18,-0.3435,16440,0.2408,"Houston, TX
-(29.760803, -95.369506)","Philadelphia, PA
-(39.951061, -75.16562)"
+/29.760803, -95.369506","Philadelphia, PA
+/39.951061, -75.16562"
 Table 4,2017,3,31453,34492,"Houston, TX","Raleigh/Durham, NC",40720,205.26,258.94,33620,-53.68,-0.2073,7100,0.2112,"Houston, TX
-(29.760803, -95.369506)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
+/29.760803, -95.369506","Raleigh/Durham, NC
+/42.673348, -72.179683"
 Table 4,2017,3,31454,33570,"Orlando, FL","San Diego, CA",67430,175.11,251.43,46820,-76.32,-0.3035,20610,0.4402,"Orlando, FL
-(28.538331, -81.378879)","San Diego, CA
-(32.71576, -117.163817)"
-Table 4,2017,3,31504,30852,"Valparaiso, FL","Washington, DC (Metropolitan Area)",16870,209.05,282.54,11900,-73.49,-0.2601,4970,0.4176,"Valparaiso, FL
-(41.478143, -87.055372)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
+/28.538331, -81.378879","San Diego, CA
+/32.71576, -117.163817"
+Table 4,2017,3,31504,30852,"Valparaiso, FL","Washington, DC (Metropolitan Area",16870,209.05,282.54,11900,-73.49,-0.2601,4970,0.4176,"Valparaiso, FL
+/41.478143, -87.055372","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
 Table 4,2017,3,31650,30693,"Minneapolis/St. Paul, MN","Nashville, TN",55070,201.24,271.02,39720,-69.78,-0.2575,15350,0.3865,"Minneapolis/St. Paul, MN
-(44.977479, -93.264346)","Nashville, TN
-(36.166687, -86.779932)"
+/44.977479, -93.264346","Nashville, TN
+/36.166687, -86.779932"
 Table 4,2017,3,31986,31650,"Grand Rapids, MI","Minneapolis/St. Paul, MN",21650,212.39,280.06,18190,-67.67,-0.2416,3460,0.1902,"Grand Rapids, MI
-(47.925705, -97.036068)","Minneapolis/St. Paul, MN
-(44.977479, -93.264346)"
-Table 4,2017,3,32211,33195,"Las Vegas, NV","Tampa, FL (Metropolitan Area)",74920,172.16,257.58,48640,-85.42,-0.3316,26280,0.5403,"Las Vegas, NV
-(36.169202, -115.140597)","Tampa, FL (Metropolitan Area)
-(37.8606, -78.804199)"
+/47.925705, -97.036068","Minneapolis/St. Paul, MN
+/44.977479, -93.264346"
+Table 4,2017,3,32211,33195,"Las Vegas, NV","Tampa, FL (Metropolitan Area",74920,172.16,257.58,48640,-85.42,-0.3316,26280,0.5403,"Las Vegas, NV
+/36.169202, -115.140597","Tampa, FL (Metropolitan Area
+/37.8606, -78.804199"
 Table 4,2017,3,32211,34492,"Las Vegas, NV","Raleigh/Durham, NC",49740,221.13,283.2,41480,-62.07,-0.2192,8260,0.1991,"Las Vegas, NV
-(36.169202, -115.140597)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
-Table 4,2017,3,32467,31454,"Miami, FL (Metropolitan Area)","Orlando, FL",53720,113.89,150.15,38610,-36.25,-0.2414,15110,0.3914,"Miami, FL (Metropolitan Area)
-(44.977479, -93.264346)","Orlando, FL
-(28.538331, -81.378879)"
+/36.169202, -115.140597","Raleigh/Durham, NC
+/42.673348, -72.179683"
+Table 4,2017,3,32467,31454,"Miami, FL (Metropolitan Area","Orlando, FL",53720,113.89,150.15,38610,-36.25,-0.2414,15110,0.3914,"Miami, FL (Metropolitan Area
+/44.977479, -93.264346","Orlando, FL
+/28.538331, -81.378879"
 Table 4,2017,3,33105,30466,"Cincinnati, OH","Phoenix, AZ",34290,133.06,170.22,27200,-37.16,-0.2183,7090,0.2607,"Cincinnati, OH
-(39.104427, -84.513808)","Phoenix, AZ
-(30.406931, -87.217578)"
-Table 4,2017,3,33105,30852,"Cincinnati, OH","Washington, DC (Metropolitan Area)",86340,125.55,193.79,48700,-68.23,-0.3521,37640,0.7729,"Cincinnati, OH
-(39.104427, -84.513808)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
+/39.104427, -84.513808","Phoenix, AZ
+/30.406931, -87.217578"
+Table 4,2017,3,33105,30852,"Cincinnati, OH","Washington, DC (Metropolitan Area",86340,125.55,193.79,48700,-68.23,-0.3521,37640,0.7729,"Cincinnati, OH
+/39.104427, -84.513808","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
 Table 4,2017,3,33105,31650,"Cincinnati, OH","Minneapolis/St. Paul, MN",29850,239.64,366.15,19540,-126.51,-0.3455,10310,0.5276,"Cincinnati, OH
-(39.104427, -84.513808)","Minneapolis/St. Paul, MN
-(44.977479, -93.264346)"
-Table 4,2017,3,33105,31703,"Cincinnati, OH","New York City, NY (Metropolitan Area)",122500,172.45,254.66,88660,-82.21,-0.3228,33840,0.3817,"Cincinnati, OH
-(39.104427, -84.513808)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,3,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area)",63060,197.33,270.54,39870,-73.21,-0.2706,23190,0.5816,"Cincinnati, OH
-(39.104427, -84.513808)","San Francisco, CA (Metropolitan Area)
-(37.78008, -122.420168)"
+/39.104427, -84.513808","Minneapolis/St. Paul, MN
+/44.977479, -93.264346"
+Table 4,2017,3,33105,31703,"Cincinnati, OH","New York City, NY (Metropolitan Area",122500,172.45,254.66,88660,-82.21,-0.3228,33840,0.3817,"Cincinnati, OH
+/39.104427, -84.513808","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,3,33105,32457,"Cincinnati, OH","San Francisco, CA (Metropolitan Area",63060,197.33,270.54,39870,-73.21,-0.2706,23190,0.5816,"Cincinnati, OH
+/39.104427, -84.513808","San Francisco, CA (Metropolitan Area
+/37.78008, -122.420168"
 Table 4,2017,3,33105,33570,"Cincinnati, OH","San Diego, CA",24060,190.14,308.99,11670,-118.85,-0.3846,12390,1.0617,"Cincinnati, OH
-(39.104427, -84.513808)","San Diego, CA
-(32.71576, -117.163817)"
+/39.104427, -84.513808","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,3,33192,33570,"Sacramento, CA","San Diego, CA",200860,122.59,160.7,149060,-38.11,-0.2371,51800,0.3475,"Sacramento, CA
-(38.582087, -121.50012)","San Diego, CA
-(32.71576, -117.163817)"
+/38.582087, -121.50012","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,3,33192,34614,"Sacramento, CA","Salt Lake City, UT",43610,154.03,237.58,27720,-83.55,-0.3517,15890,0.5732,"Sacramento, CA
-(38.582087, -121.50012)","Salt Lake City, UT
-(40.758478, -111.888142)"
-Table 4,2017,3,33495,30852,"New Orleans, LA","Washington, DC (Metropolitan Area)",152170,169.12,219.1,115020,-49.98,-0.2281,37150,0.323,"New Orleans, LA
-(29.950621, -90.074948)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
+/38.582087, -121.50012","Salt Lake City, UT
+/40.758478, -111.888142"
+Table 4,2017,3,33495,30852,"New Orleans, LA","Washington, DC (Metropolitan Area",152170,169.12,219.1,115020,-49.98,-0.2281,37150,0.323,"New Orleans, LA
+/29.950621, -90.074948","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
 Table 4,2017,3,33495,31454,"New Orleans, LA","Orlando, FL",56950,124.75,163.2,47340,-38.45,-0.2356,9610,0.203,"New Orleans, LA
-(29.950621, -90.074948)","Orlando, FL
-(28.538331, -81.378879)"
+/29.950621, -90.074948","Orlando, FL
+/28.538331, -81.378879"
 Table 4,2017,3,33495,34492,"New Orleans, LA","Raleigh/Durham, NC",20010,170.72,235.61,14200,-64.88,-0.2754,5810,0.4092,"New Orleans, LA
-(29.950621, -90.074948)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
+/29.950621, -90.074948","Raleigh/Durham, NC
+/42.673348, -72.179683"
 Table 4,2017,3,33851,31454,"Oklahoma City, OK","Orlando, FL",19000,197.18,250.13,13210,-52.95,-0.2117,5790,0.4383,"Oklahoma City, OK
-(35.468494, -97.521264)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,3,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area)",41000,157.93,293.37,19510,-135.44,-0.4617,21490,1.1015,"Knoxville, TN
-(35.962631, -83.916677)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
-Table 4,2017,4,30189,32575,"Colorado Springs, CO","Los Angeles, CA (Metropolitan Area)",17550,190.24,258.01,12150,-67.77,-0.2627,5400,0.4444,"Colorado Springs, CO
-(38.835224, -104.819798)","Los Angeles, CA (Metropolitan Area)
-(34.052238, -118.243344)"
+/35.468494, -97.521264","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,3,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area",41000,157.93,293.37,19510,-135.44,-0.4617,21490,1.1015,"Knoxville, TN
+/35.962631, -83.916677","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
+Table 4,2017,4,30189,32575,"Colorado Springs, CO","Los Angeles, CA (Metropolitan Area",17550,190.24,258.01,12150,-67.77,-0.2627,5400,0.4444,"Colorado Springs, CO
+/38.835224, -104.819798","Los Angeles, CA (Metropolitan Area
+/34.052238, -118.243344"
 Table 4,2017,4,30194,30198,"Dallas/Fort Worth, TX","Pittsburgh, PA",70700,190.18,241.24,57710,-51.06,-0.2117,12990,0.2251,"Dallas/Fort Worth, TX
-(40.11086, -77.035636)","Pittsburgh, PA
-(40.442169, -79.994945)"
-Table 4,2017,4,30397,30721,"Atlanta, GA (Metropolitan Area)","Boston, MA (Metropolitan Area)",311270,144.32,190.33,251210,-46.02,-0.2418,60060,0.2391,"Atlanta, GA (Metropolitan Area)
-(33.748547, -84.391502)","Boston, MA (Metropolitan Area)
-(42.358894, -71.056742)"
+/40.11086, -77.035636","Pittsburgh, PA
+/40.442169, -79.994945"
+Table 4,2017,4,30397,30721,"Atlanta, GA (Metropolitan Area","Boston, MA (Metropolitan Area",311270,144.32,190.33,251210,-46.02,-0.2418,60060,0.2391,"Atlanta, GA (Metropolitan Area
+/33.748547, -84.391502","Boston, MA (Metropolitan Area
+/42.358894, -71.056742"
 Table 4,2018,4,30397,30693,"Atlanta, GA (Metropolitan Area)","Nashville, TN",50810,149.11,299.27,23980,-150.15,-0.5017,26830,1.1188,,
 Table 4,2017,4,30423,30466,"Austin, TX","Phoenix, AZ",77010,181.29,232.31,66160,-51.02,-0.2196,10850,0.164,"Austin, TX
-(30.264979, -97.746598)","Phoenix, AZ
-(30.406931, -87.217578)"
-Table 4,2017,4,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area)",20590,205.67,264.02,15160,-58.35,-0.221,5430,0.3582,"Austin, TX
-(30.264979, -97.746598)","Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)"
+/30.264979, -97.746598","Phoenix, AZ
+/30.406931, -87.217578"
+Table 4,2017,4,30423,30647,"Austin, TX","Cleveland, OH (Metropolitan Area",20590,205.67,264.02,15160,-58.35,-0.221,5430,0.3582,"Austin, TX
+/30.264979, -97.746598","Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915"
 Table 4,2017,4,30423,32337,"Austin, TX","Indianapolis, IN",23970,191.45,272.82,15400,-81.37,-0.2983,8570,0.5565,"Austin, TX
-(30.264979, -97.746598)","Indianapolis, IN
-(39.76845, -86.156212)"
+/30.264979, -97.746598","Indianapolis, IN
+/39.76845, -86.156212"
 Table 4,2017,4,30423,33198,"Austin, TX","Kansas City, MO",25500,190.85,241.99,17930,-51.14,-0.2113,7570,0.4222,"Austin, TX
-(30.264979, -97.746598)","Kansas City, MO
-(39.099792, -94.578559)"
+/30.264979, -97.746598","Kansas City, MO
+/39.099792, -94.578559"
 Table 4,2017,4,30423,33495,"Austin, TX","New Orleans, LA",38150,163.73,213.61,29570,-49.88,-0.2335,8580,0.2902,"Austin, TX
-(30.264979, -97.746598)","New Orleans, LA
-(29.950621, -90.074948)"
+/30.264979, -97.746598","New Orleans, LA
+/29.950621, -90.074948"
 Table 4,2017,4,30423,33570,"Austin, TX","San Diego, CA",60560,183.63,253.79,40340,-70.16,-0.2764,20220,0.5012,"Austin, TX
-(30.264979, -97.746598)","San Diego, CA
-(32.71576, -117.163817)"
+/30.264979, -97.746598","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,4,30423,34057,"Austin, TX","Portland, OR",41520,190.65,255.47,32490,-64.82,-0.2537,9030,0.2779,"Austin, TX
-(30.264979, -97.746598)","Portland, OR
-(45.516018, -122.681425)"
-Table 4,2017,4,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area)",29310,167.55,221.79,15020,-54.24,-0.2446,14290,0.9514,"Asheville, NC
-(35.595889, -82.550039)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/30.264979, -97.746598","Portland, OR
+/45.516018, -122.681425"
+Table 4,2017,4,30431,31703,"Asheville, NC","New York City, NY (Metropolitan Area",29310,167.55,221.79,15020,-54.24,-0.2446,14290,0.9514,"Asheville, NC
+/35.595889, -82.550039","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,4,30466,33214,"Phoenix, AZ","San Antonio, TX",58440,185.01,238.7,44040,-53.69,-0.2249,14400,0.327,"Phoenix, AZ
-(30.406931, -87.217578)","San Antonio, TX
-(29.425173, -98.494599)"
-Table 4,2017,4,30647,30852,"Cleveland, OH (Metropolitan Area)","Washington, DC (Metropolitan Area)",65380,159.83,215.1,61100,-55.28,-0.257,4280,0.07,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
-Table 4,2017,4,30647,33342,"Cleveland, OH (Metropolitan Area)","Milwaukee, WI",18500,156.37,267.3,10080,-110.93,-0.415,8420,0.8353,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","Milwaukee, WI
-(43.041072, -87.909421)"
-Table 4,2017,4,30647,33495,"Cleveland, OH (Metropolitan Area)","New Orleans, LA",19510,183.25,236.22,16150,-52.96,-0.2242,3360,0.208,"Cleveland, OH (Metropolitan Area)
-(41.505546, -81.6915)","New Orleans, LA
-(29.950621, -90.074948)"
-Table 4,2017,4,31123,33195,"St. Louis, MO","Tampa, FL (Metropolitan Area)",44100,184.6,233.47,36540,-48.87,-0.2093,7560,0.2069,"St. Louis, MO
-(38.630276, -90.200309)","Tampa, FL (Metropolitan Area)
-(37.8606, -78.804199)"
-Table 4,2017,4,31703,34524,"New York City, NY (Metropolitan Area)","Richmond, VA",61840,244.6,308.97,42120,-64.37,-0.2083,19720,0.4682,"New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)","Richmond, VA
-(37.540759, -77.433932)"
+/30.406931, -87.217578","San Antonio, TX
+/29.425173, -98.494599"
+Table 4,2017,4,30647,30852,"Cleveland, OH (Metropolitan Area","Washington, DC (Metropolitan Area",65380,159.83,215.1,61100,-55.28,-0.257,4280,0.07,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
+Table 4,2017,4,30647,33342,"Cleveland, OH (Metropolitan Area","Milwaukee, WI",18500,156.37,267.3,10080,-110.93,-0.415,8420,0.8353,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","Milwaukee, WI
+/43.041072, -87.909421"
+Table 4,2017,4,30647,33495,"Cleveland, OH (Metropolitan Area","New Orleans, LA",19510,183.25,236.22,16150,-52.96,-0.2242,3360,0.208,"Cleveland, OH (Metropolitan Area
+/41.505546, -81.6915","New Orleans, LA
+/29.950621, -90.074948"
+Table 4,2017,4,31123,33195,"St. Louis, MO","Tampa, FL (Metropolitan Area",44100,184.6,233.47,36540,-48.87,-0.2093,7560,0.2069,"St. Louis, MO
+/38.630276, -90.200309","Tampa, FL (Metropolitan Area
+/37.8606, -78.804199"
+Table 4,2017,4,31703,34524,"New York City, NY (Metropolitan Area","Richmond, VA",61840,244.6,308.97,42120,-64.37,-0.2083,19720,0.4682,"New York City, NY (Metropolitan Area
+/40.123164, -75.333718","Richmond, VA
+/37.540759, -77.433932"
 Table 4,2017,4,32211,33244,"Las Vegas, NV","Memphis, TN",30900,167.78,211.46,23180,-43.68,-0.2066,7720,0.333,"Las Vegas, NV
-(36.169202, -115.140597)","Memphis, TN
-(35.143378, -90.052136)"
+/36.169202, -115.140597","Memphis, TN
+/35.143378, -90.052136"
 Table 4,2017,4,32211,34492,"Las Vegas, NV","Raleigh/Durham, NC",53220,192.76,270.64,39350,-77.87,-0.2877,13870,0.3525,"Las Vegas, NV
-(36.169202, -115.140597)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
-Table 4,2017,4,32467,31454,"Miami, FL (Metropolitan Area)","Orlando, FL",64520,117.02,148.14,43360,-31.12,-0.2101,21160,0.488,"Miami, FL (Metropolitan Area)
-(44.977479, -93.264346)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,4,33105,30852,"Cincinnati, OH","Washington, DC (Metropolitan Area)",85770,130.84,198.43,54590,-67.59,-0.3406,31180,0.5712,"Cincinnati, OH
-(39.104427, -84.513808)","Washington, DC (Metropolitan Area)
-(38.892062, -77.019912)"
-Table 4,2017,4,33105,31703,"Cincinnati, OH","New York City, NY (Metropolitan Area)",128720,185.86,255.15,96990,-69.3,-0.2716,31730,0.3272,"Cincinnati, OH
-(39.104427, -84.513808)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/36.169202, -115.140597","Raleigh/Durham, NC
+/42.673348, -72.179683"
+Table 4,2017,4,32467,31454,"Miami, FL (Metropolitan Area","Orlando, FL",64520,117.02,148.14,43360,-31.12,-0.2101,21160,0.488,"Miami, FL (Metropolitan Area
+/44.977479, -93.264346","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,4,33105,30852,"Cincinnati, OH","Washington, DC (Metropolitan Area",85770,130.84,198.43,54590,-67.59,-0.3406,31180,0.5712,"Cincinnati, OH
+/39.104427, -84.513808","Washington, DC (Metropolitan Area
+/38.892062, -77.019912"
+Table 4,2017,4,33105,31703,"Cincinnati, OH","New York City, NY (Metropolitan Area",128720,185.86,255.15,96990,-69.3,-0.2716,31730,0.3272,"Cincinnati, OH
+/39.104427, -84.513808","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2017,4,33105,33570,"Cincinnati, OH","San Diego, CA",17950,245.09,308.69,11110,-63.6,-0.206,6840,0.6157,"Cincinnati, OH
-(39.104427, -84.513808)","San Diego, CA
-(32.71576, -117.163817)"
+/39.104427, -84.513808","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,4,33192,33570,"Sacramento, CA","San Diego, CA",196130,122.83,159.28,154430,-36.45,-0.2288,41700,0.27,"Sacramento, CA
-(38.582087, -121.50012)","San Diego, CA
-(32.71576, -117.163817)"
+/38.582087, -121.50012","San Diego, CA
+/32.71576, -117.163817"
 Table 4,2017,4,33342,30693,"Milwaukee, WI","Nashville, TN",23380,126.13,222.22,8370,-96.09,-0.4324,15010,1.7933,"Milwaukee, WI
-(43.041072, -87.909421)","Nashville, TN
-(36.166687, -86.779932)"
+/43.041072, -87.909421","Nashville, TN
+/36.166687, -86.779932"
 Table 4,2017,4,33495,34492,"New Orleans, LA","Raleigh/Durham, NC",26270,188.81,236.05,19300,-47.24,-0.2001,6970,0.3611,"New Orleans, LA
-(29.950621, -90.074948)","Raleigh/Durham, NC
-(42.673348, -72.179683)"
+/29.950621, -90.074948","Raleigh/Durham, NC
+/42.673348, -72.179683"
 Table 4,2017,4,33851,31454,"Oklahoma City, OK","Orlando, FL",29690,196.94,252.46,20310,-55.51,-0.2199,9380,0.4618,"Oklahoma City, OK
-(35.468494, -97.521264)","Orlando, FL
-(28.538331, -81.378879)"
-Table 4,2017,4,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area)",45270,171.96,267.13,24360,-95.16,-0.3562,20910,0.8584,"Knoxville, TN
-(35.962631, -83.916677)","New York City, NY (Metropolitan Area)
-(40.123164, -75.333718)"
+/35.468494, -97.521264","Orlando, FL
+/28.538331, -81.378879"
+Table 4,2017,4,35412,31703,"Knoxville, TN","New York City, NY (Metropolitan Area",45270,171.96,267.13,24360,-95.16,-0.3562,20910,0.8584,"Knoxville, TN
+/35.962631, -83.916677","New York City, NY (Metropolitan Area
+/40.123164, -75.333718"
 Table 4,2018,1,30140,30325,"Albuquerque, NM","Denver, CO",34690,130.49,184.71,32440,-54.22,-0.2936,2250,0.0694,"Albuquerque, NM
 (35.084248, -106.649241)","Denver, CO
 (39.738453, -104.984853)"
