@@ -30,3 +30,9 @@ def welcome():
     return (
         f"/api.v1.0/airfare"
     )
+
+#Create Server
+if __name__ == '__main__':
+    app.run(debug=True)
+
+
