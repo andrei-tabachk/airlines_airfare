@@ -6,7 +6,7 @@ import pandas as pd
 from pathlib import Path
 
 # use pandas to create dataframe based on csv data
-df_airefare_decrease = pd.read_csv(r'C:\Users\andre\OneDrive\Documents\Columbia University - Class Work\Repositories\airlines_airfare\Consumer_Airfare_Report__Table_4_-_City-Pair_Markets_With_A_Substantial_Decrease_In_Average_Fare.csv')
+df_airefare_decrease = pd.read_csv(r'C:\Users\andre\OneDrive\Documents\Columbia University - Class Work\Repositories\airlines_airfare\cleaned_data.csv')
 filtered_airefare_decrease = df_airefare_decrease[df_airefare_decrease['Year'] == 2017]
 
 # create a sqlite database and a connection to it
