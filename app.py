@@ -29,5 +29,5 @@ def main():
     """List all available api routes."""
     return ('index.html')
 
-@app.route("/")
+@app.route("/api.v1.0/airfare")
 def airfare():
