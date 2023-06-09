@@ -27,6 +27,8 @@ app = Flask(__name__)
 @app.route("/")
 def main():
     """List all available api routes."""
-    return (
-        f"/api.v1.0/airfare"
-    )
+    return ('index.html')
+
+
+@app.route("/api.v1.0/airfare")
+def routes():
